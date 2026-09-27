@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 69
+  response: 7E80562012B0185
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 87
+  response: 7E80562012B0197
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: -2
+  response: 7E80562012B023E
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 40
+  response: 7E80562012B0268
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 103
+  response: 7E80562012B02A7
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 133
+  response: 7E80562012B02C5
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 162
+  response: 7E80562012B02E2
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: -63
+  response: 7E80562012B0301
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: -3
+  response: 7E80562012B033D
+- expected_values:
+    CHRYSLER_CAT_MODEL_T: 96
+  response: 7E80562012B03A0

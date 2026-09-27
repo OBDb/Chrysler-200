@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CHRYSLER_ODO: 91242.496
   response: 7E80562043B2B82
+- expected_values:
+    CHRYSLER_ODO: 91250.688
+  response: 7E80562043B2B83

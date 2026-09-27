@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22B028
+test_cases:
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 0
+  response: 7E80562B0280000
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 2
+  response: 7E80562B0280002
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 3
+  response: 7E80562B0280003
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 43
+  response: 7E80562B028002B
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 44
+  response: 7E80562B028002C
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 82
+  response: 7E80562B0280052
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 214
+  response: 7E80562B02800D6
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 658
+  response: 7E80562B0280292
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 660
+  response: 7E80562B0280294
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: -2
+  response: 7E80562B028FFFE

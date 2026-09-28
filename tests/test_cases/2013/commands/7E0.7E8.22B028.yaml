@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22B028
+test_cases:
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 13
+  response: 7E80562B028000D
+- expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 45
+  response: 7E80562B028002D

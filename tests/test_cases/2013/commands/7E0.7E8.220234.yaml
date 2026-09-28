@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220234
 test_cases:
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_1: 1.624
-  response: '7E80762023400000658'
+    CHRYSLER_INJ_WIDTH_CYL_1: 1.152
+  response: '7E80762023400000480'
 - expected_values:
     CHRYSLER_INJ_WIDTH_CYL_1: 1.768
   response: 7E807620234000006E8
@@ -10,5 +10,5 @@ test_cases:
     CHRYSLER_INJ_WIDTH_CYL_1: 1.792
   response: '7E80762023400000700'
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_1: 2.704
-  response: 7E80762023400000A90
+    CHRYSLER_INJ_WIDTH_CYL_1: 5.232
+  response: '7E80762023400001470'

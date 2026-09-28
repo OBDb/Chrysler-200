@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22B010
 test_cases:
 - expected_values:
-    CHRYSLER_ATF_T_VAR_3: 108.54688
-  response: 7E80562B0101B23
+    CHRYSLER_ATF_T_VAR_3: 99.75
+  response: 7E80562B01018F0
 - expected_values:
     CHRYSLER_ATF_T_VAR_3: 111.98438
   response: 7E80562B0101BFF

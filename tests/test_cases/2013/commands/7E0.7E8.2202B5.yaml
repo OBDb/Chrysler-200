@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2202B5
 test_cases:
 - expected_values:
-    CHRYSLER_REQUIRED_FUEL_CHG_4: 8.6875
-  response: 7E8056202B5022C
+    CHRYSLER_REQUIRED_FUEL_CHG_4: 7.26562
+  response: 7E8056202B501D1
 - expected_values:
     CHRYSLER_REQUIRED_FUEL_CHG_4: 11.89062
   response: 7E8056202B502F9
 - expected_values:
     CHRYSLER_REQUIRED_FUEL_CHG_4: 12.10938
   response: 7E8056202B50307
+- expected_values:
+    CHRYSLER_REQUIRED_FUEL_CHG_4: 22.89062
+  response: 7E8056202B505B9

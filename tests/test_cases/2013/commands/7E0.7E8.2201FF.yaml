@@ -4,5 +4,5 @@ test_cases:
     CHRYSLER_IAT_01FF: 34
   response: 7E8056201FF0062
 - expected_values:
-    CHRYSLER_IAT_01FF: 48
-  response: 7E8056201FF0070
+    CHRYSLER_IAT_01FF: 63
+  response: 7E8056201FF007F

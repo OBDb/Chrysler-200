@@ -4,23 +4,11 @@ test_cases:
     CHRYSLER_FUEL_MASS_CYL_1: 7.40625
   response: 7E80562025501DA
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 9.67188
-  response: 7E805620255026B
+    CHRYSLER_FUEL_MASS_CYL_1: 20.53125
+  response: '7E8056202550522'
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 10.35938
-  response: '7E8056202550297'
+    CHRYSLER_FUEL_MASS_CYL_1: 27.92188
+  response: 7E80562025506FB
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 10.51562
-  response: 7E80562025502A1
-- expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 11.60938
-  response: 7E80562025502E7
-- expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 11.70312
-  response: 7E80562025502ED
-- expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 11.75
-  response: 7E80562025502F0
-- expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 13.85938
-  response: '7E8056202550377'
+    CHRYSLER_FUEL_MASS_CYL_1: 29.98438
+  response: 7E805620255077F

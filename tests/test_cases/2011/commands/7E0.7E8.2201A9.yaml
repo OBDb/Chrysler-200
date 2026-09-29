@@ -4,29 +4,11 @@ test_cases:
     CHRYSLER_KNOCK_SENS_1: 0.33692
   response: 7E8056201A91140
 - expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.41505
-  response: 7E8056201A91540
-- expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.41993
-  response: 7E8056201A91580
-- expected_values:
     CHRYSLER_KNOCK_SENS_1: 0.42969
   response: 7E8056201A91600
 - expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.47852
-  response: 7E8056201A91880
-- expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.49805
-  response: 7E8056201A91980
-- expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.50782
-  response: 7E8056201A91A00
-- expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.5713
-  response: 7E8056201A91D40
-- expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.59571
-  response: 7E8056201A91E80
-- expected_values:
     CHRYSLER_KNOCK_SENS_1: 0.69825
   response: 7E8056201A923C0
+- expected_values:
+    CHRYSLER_KNOCK_SENS_1: 1.44533
+  response: 7E8056201A94A00

@@ -2,6 +2,15 @@ command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
     CHRYSLER_FLI_INPUT: 100
+  response: '7E80462022771'
+- expected_values:
+    CHRYSLER_FLI_INPUT: 100
+  response: '7E80462022773'
+- expected_values:
+    CHRYSLER_FLI_INPUT: 100
+  response: '7E80462022774'
+- expected_values:
+    CHRYSLER_FLI_INPUT: 100
   response: '7E80462022775'
 - expected_values:
     CHRYSLER_FLI_INPUT: 100

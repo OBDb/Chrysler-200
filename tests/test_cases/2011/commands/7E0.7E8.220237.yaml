@@ -4,29 +4,8 @@ test_cases:
     CHRYSLER_INJ_WIDTH_CYL_4: 1.232
   response: 7E807620237000004D0
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 1.608
-  response: '7E80762023700000648'
-- expected_values:
     CHRYSLER_INJ_WIDTH_CYL_4: 2.048
   response: '7E80762023700000800'
 - expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.08
-  response: '7E80762023700000820'
-- expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.232
-  response: 7E807620237000008B8
-- expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.448
-  response: '7E80762023700000990'
-- expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.48
-  response: 7E807620237000009B0
-- expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.504
-  response: 7E807620237000009C8
-- expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.624
-  response: 7E80762023700000A40
-- expected_values:
-    CHRYSLER_INJ_WIDTH_CYL_4: 2.632
-  response: 7E80762023700000A48
+    CHRYSLER_INJ_WIDTH_CYL_4: 8.528
+  response: '7E80762023700002150'

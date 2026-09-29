@@ -1,17 +1,8 @@
 command_id: 7E0.7E8.2201FF
 test_cases:
 - expected_values:
-    CHRYSLER_IAT_01FF: 40
-  response: 7E8056201FF0068
-- expected_values:
-    CHRYSLER_IAT_01FF: 41
-  response: 7E8056201FF0069
-- expected_values:
-    CHRYSLER_IAT_01FF: 42
-  response: 7E8056201FF006A
-- expected_values:
-    CHRYSLER_IAT_01FF: 44
-  response: 7E8056201FF006C
+    CHRYSLER_IAT_01FF: 25
+  response: 7E8056201FF0059
 - expected_values:
     CHRYSLER_IAT_01FF: 47
   response: 7E8056201FF006F

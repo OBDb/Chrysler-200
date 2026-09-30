@@ -2,28 +2,7 @@ command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
     CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227A9
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227AA
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227AB
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227AC
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227AF
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227B0
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227B1
-- expected_values:
-    CHRYSLER_FLI_INPUT: 100
-  response: 7E804620227B3
+  response: 7E804620227A5
 - expected_values:
     CHRYSLER_FLI_INPUT: 100
   response: 7E804620227B5

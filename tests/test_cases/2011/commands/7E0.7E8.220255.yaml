@@ -4,8 +4,8 @@ test_cases:
     CHRYSLER_FUEL_MASS_CYL_1: 7.40625
   response: 7E80562025501DA
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_1: 20.53125
-  response: '7E8056202550522'
+    CHRYSLER_FUEL_MASS_CYL_1: 12
+  response: '7E8056202550300'
 - expected_values:
     CHRYSLER_FUEL_MASS_CYL_1: 27.92188
   response: 7E80562025506FB

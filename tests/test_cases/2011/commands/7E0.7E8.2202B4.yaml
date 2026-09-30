@@ -4,11 +4,11 @@ test_cases:
     CHRYSLER_REQUIRED_FUEL_CHG_3: 5.75
   response: 7E8056202B40170
 - expected_values:
-    CHRYSLER_REQUIRED_FUEL_CHG_3: 8.01562
-  response: 7E8056202B40201
-- expected_values:
     CHRYSLER_REQUIRED_FUEL_CHG_3: 11.625
   response: 7E8056202B402E8
+- expected_values:
+    CHRYSLER_REQUIRED_FUEL_CHG_3: 12
+  response: 7E8056202B40300
 - expected_values:
     CHRYSLER_REQUIRED_FUEL_CHG_3: 24.10938
   response: 7E8056202B40607

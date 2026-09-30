@@ -4,8 +4,8 @@ test_cases:
     CHRYSLER_KNOCK_SENS_1: 0.33692
   response: 7E8056201A91140
 - expected_values:
-    CHRYSLER_KNOCK_SENS_1: 0.42969
-  response: 7E8056201A91600
+    CHRYSLER_KNOCK_SENS_1: 0.3711
+  response: 7E8056201A91300
 - expected_values:
     CHRYSLER_KNOCK_SENS_1: 0.48341
   response: 7E8056201A918C0

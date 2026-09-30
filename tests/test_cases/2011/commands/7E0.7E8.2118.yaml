@@ -4,23 +4,14 @@ test_cases:
     CHRYSLER_ATF_T_V_2: 79.67188
   response: 7E805611813EB82
 - expected_values:
-    CHRYSLER_ATF_T_V_2: 83.125
-  response: 7E805611814C884
-- expected_values:
-    CHRYSLER_ATF_T_V_2: 88.28125
-  response: '7E8056118161284'
+    CHRYSLER_ATF_T_V_2: 82.92188
+  response: 7E805611814BB84
 - expected_values:
     CHRYSLER_ATF_T_V_2: 92.10938
   response: '7E8056118170784'
 - expected_values:
-    CHRYSLER_ATF_T_V_2: 93.625
-  response: '7E8056118176884'
+    CHRYSLER_ATF_T_V_2: 103.95312
+  response: 7E805611819FD84
 - expected_values:
-    CHRYSLER_ATF_T_V_2: 98.40625
-  response: 7E8056118189A84
-- expected_values:
-    CHRYSLER_ATF_T_V_2: 100.32812
-  response: '7E8056118191584'
-- expected_values:
-    CHRYSLER_ATF_T_V_2: 101.09375
-  response: '7E8056118194684'
+    CHRYSLER_ATF_T_V_2: 104.71875
+  response: 7E80561181A2E84

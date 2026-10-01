@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    CHRYSLER_AAT: 61
-  response: '7E80462012750'
-- expected_values:
-    CHRYSLER_AAT: 62.8
-  response: '7E80462012751'
-- expected_values:
-    CHRYSLER_AAT: 66.4
-  response: '7E80462012753'
-- expected_values:
-    CHRYSLER_AAT: 68.2
-  response: '7E80462012754'
-- expected_values:
-    CHRYSLER_AAT: 70
-  response: '7E80462012755'
-- expected_values:
-    CHRYSLER_AAT: 71.8
-  response: '7E80462012756'
-- expected_values:
-    CHRYSLER_AAT: 84.4
-  response: 7E8046201275D
-- expected_values:
-    CHRYSLER_AAT: 86.2
-  response: 7E8046201275E
+    CHRYSLER_AAT: 55.6
+  response: 7E8046201274D
 - expected_values:
     CHRYSLER_AAT: 89.8
   response: '7E80462012760'

@@ -1,6 +1,7 @@
 command_id: 7E0.7E8.212D
 test_cases:
 - expected_values:
+    CHRYSLER_EOT: 87
     CHRYSLER_EOT_212D: 188.8
   response: |-
     7E81076612DFFFFFFFF
@@ -21,6 +22,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 75
     CHRYSLER_EOT_212D: 167.2
   response: |-
     7E81076612DFFFFFFFF
@@ -41,6 +43,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 45
     CHRYSLER_EOT_212D: 113.2
   response: |-
     7E81076612DFFFFFFFF
@@ -61,6 +64,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 92
     CHRYSLER_EOT_212D: 197.8
   response: |-
     7E81076612DFFFFFFFF
@@ -81,6 +85,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 67
     CHRYSLER_EOT_212D: 152.8
   response: |-
     7E81076612DFFFFFFFF
@@ -101,6 +106,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 79
     CHRYSLER_EOT_212D: 174.4
   response: |-
     7E81076612DFFFFFFFF
@@ -121,6 +127,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 80
     CHRYSLER_EOT_212D: 176.2
   response: |-
     7E81076612DFFFFFFFF
@@ -141,6 +148,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 75
     CHRYSLER_EOT_212D: 167.2
   response: |-
     7E81076612DFFFFFFFF
@@ -161,6 +169,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 58
     CHRYSLER_EOT_212D: 136.6
   response: |-
     7E81076612DFFFFFFFF
@@ -181,6 +190,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 78
     CHRYSLER_EOT_212D: 172.6
   response: |-
     7E81076612DFFFFFFFF
@@ -201,6 +211,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 78
     CHRYSLER_EOT_212D: 172.6
   response: |-
     7E81076612DFFFFFFFF
@@ -221,6 +232,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 62
     CHRYSLER_EOT_212D: 143.8
   response: |-
     7E81076612DFFFFFFFF
@@ -241,6 +253,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 94
     CHRYSLER_EOT_212D: 201.4
   response: |-
     7E81076612DFFFFFFFF
@@ -261,6 +274,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 97
     CHRYSLER_EOT_212D: 206.8
   response: |-
     7E81076612DFFFFFFFF
@@ -281,6 +295,7 @@ test_cases:
     7E82F00000000000000
     7E820000010003F0271
 - expected_values:
+    CHRYSLER_EOT: 99
     CHRYSLER_EOT_212D: 210.4
   response: |-
     7E81076612DFFFFFFFF

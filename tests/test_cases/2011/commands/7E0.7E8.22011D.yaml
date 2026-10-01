@@ -7,8 +7,20 @@ test_cases:
     CHRYSLER_ECT: 89
   response: 7E80462011D99
 - expected_values:
+    CHRYSLER_ECT: 90
+  response: 7E80462011D9A
+- expected_values:
     CHRYSLER_ECT: 92
   response: 7E80462011D9C
+- expected_values:
+    CHRYSLER_ECT: 94
+  response: 7E80462011D9E
+- expected_values:
+    CHRYSLER_ECT: 96
+  response: 7E80462011DA0
+- expected_values:
+    CHRYSLER_ECT: 100
+  response: 7E80462011DA4
 - expected_values:
     CHRYSLER_ECT: 102
   response: 7E80462011DA6

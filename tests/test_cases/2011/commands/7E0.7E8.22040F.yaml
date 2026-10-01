@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22040F
 test_cases:
 - expected_values:
+    CHRYSLER_FLI_7E0: 0
+  response: 7E80562040F0000
+- expected_values:
     CHRYSLER_FLI_7E0: 51.192
   response: 7E80562040F005A
 - expected_values:
@@ -18,6 +21,9 @@ test_cases:
 - expected_values:
     CHRYSLER_FLI_7E0: 92.1456
   response: 7E80562040F00A2
+- expected_values:
+    CHRYSLER_FLI_7E0: 101.8152
+  response: 7E80562040F00B3
 - expected_values:
     CHRYSLER_FLI_7E0: 104.0904
   response: 7E80562040F00B7

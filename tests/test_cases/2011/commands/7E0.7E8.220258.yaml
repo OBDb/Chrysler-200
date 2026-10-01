@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220258
 test_cases:
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_4: 5.98438
-  response: 7E805620258017F
+    CHRYSLER_FUEL_MASS_CYL_4: 5.65625
+  response: 7E805620258016A
 - expected_values:
     CHRYSLER_FUEL_MASS_CYL_4: 7.78125
   response: 7E80562025801F2
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_4: 12.125
-  response: '7E8056202580308'
+    CHRYSLER_FUEL_MASS_CYL_4: 24.09375
+  response: '7E8056202580606'
 - expected_values:
     CHRYSLER_FUEL_MASS_CYL_4: 28.73438
   response: 7E805620258072F

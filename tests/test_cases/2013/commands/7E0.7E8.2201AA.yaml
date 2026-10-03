@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2201AA
 test_cases:
 - expected_values:
+    CHRYSLER_KNOCK_SENS_2: 0.42481
+  response: 7E8056201AA15C0
+- expected_values:
     CHRYSLER_KNOCK_SENS_2: 0.42969
   response: 7E8056201AA1600
-- expected_values:
-    CHRYSLER_KNOCK_SENS_2: 0.44434
-  response: 7E8056201AA16C0
 - expected_values:
     CHRYSLER_KNOCK_SENS_2: 1.66018
   response: 7E8056201AA5500

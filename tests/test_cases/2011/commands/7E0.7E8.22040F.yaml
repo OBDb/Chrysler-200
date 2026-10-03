@@ -22,6 +22,9 @@ test_cases:
     CHRYSLER_FLI_7E0: 92.1456
   response: 7E80562040F00A2
 - expected_values:
+    CHRYSLER_FLI_7E0: 97.8336
+  response: 7E80562040F00AC
+- expected_values:
     CHRYSLER_FLI_7E0: 101.8152
   response: 7E80562040F00B3
 - expected_values:

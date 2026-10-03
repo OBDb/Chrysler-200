@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2117
+test_cases:
+- expected_values:
+    CHRYSLER_LINE_P: 119
+    CHRYSLER_LINE_P_DUTY: 5.08092
+  response: 7E80761170D00776F87
+- expected_values:
+    CHRYSLER_LINE_P: 139
+    CHRYSLER_LINE_P_DUTY: 18.87481
+  response: 7E8076117304B8B8187
+- expected_values:
+    CHRYSLER_LINE_P: 137
+    CHRYSLER_LINE_P_DUTY: 22.25344
+  response: 7E807611738F0897F87
+- expected_values:
+    CHRYSLER_LINE_P: 40
+    CHRYSLER_LINE_P_DUTY: 35.0626
+  response: 7E807611759B6282B28
+- expected_values:
+    CHRYSLER_LINE_P: 39
+    CHRYSLER_LINE_P_DUTY: 35.4855
+  response: 7E80761175ACB272A28
+- expected_values:
+    CHRYSLER_LINE_P: 40
+    CHRYSLER_LINE_P_DUTY: 35.83664
+  response: 7E80761175BB1282B28

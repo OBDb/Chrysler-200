@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22011D
+test_cases:
+- expected_values:
+    CHRYSLER_ECT: 44
+  response: 7E80462011D6C
+- expected_values:
+    CHRYSLER_ECT: 87
+  response: 7E80462011D97

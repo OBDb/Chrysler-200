@@ -4,5 +4,5 @@ test_cases:
     CHRYSLER_FLI_INPUT: 43.92157
   response: '7E80462022770'
 - expected_values:
-    CHRYSLER_FLI_INPUT: 49.01961
-  response: 7E8046202277D
+    CHRYSLER_FLI_INPUT: 52.15686
+  response: '7E80462022785'

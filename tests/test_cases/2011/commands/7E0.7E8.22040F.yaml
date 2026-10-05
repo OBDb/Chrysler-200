@@ -4,5 +4,5 @@ test_cases:
     CHRYSLER_FLI_7E0: 0
   response: 7E80562040F0000
 - expected_values:
-    CHRYSLER_FLI_7E0: 104.0904
-  response: 7E80562040F00B7
+    CHRYSLER_FLI_7E0: 123.4296
+  response: 7E80562040F00D9

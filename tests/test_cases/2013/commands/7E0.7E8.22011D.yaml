@@ -4,5 +4,5 @@ test_cases:
     CHRYSLER_ECT: 44
   response: 7E80462011D6C
 - expected_values:
-    CHRYSLER_ECT: 87
-  response: 7E80462011D97
+    CHRYSLER_ECT: 100
+  response: 7E80462011DA4

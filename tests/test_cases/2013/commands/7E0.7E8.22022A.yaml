@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22022A
 test_cases:
 - expected_values:
+    CHRYSLER_EOP: 85.26
+  response: 7E80462022A93
+- expected_values:
+    CHRYSLER_EOP: 85.84
+  response: 7E80462022A94
+- expected_values:
     CHRYSLER_EOP: 93.38
   response: 7E80462022AA1
 - expected_values:
@@ -9,6 +15,9 @@ test_cases:
 - expected_values:
     CHRYSLER_EOP: 98.02
   response: 7E80462022AA9
+- expected_values:
+    CHRYSLER_EOP: 98.6
+  response: 7E80462022AAA
 - expected_values:
     CHRYSLER_EOP: 99.18
   response: 7E80462022AAB

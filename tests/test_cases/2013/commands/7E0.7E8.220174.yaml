@@ -7,5 +7,5 @@ test_cases:
     CHRYSLER_MAP: 50.8
   response: 7E80562017400FE
 - expected_values:
-    CHRYSLER_MAP: 51.4
-  response: '7E8056201740101'
+    CHRYSLER_MAP: 51.2
+  response: '7E8056201740100'

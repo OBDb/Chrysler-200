@@ -5,10 +5,10 @@ test_cases:
     CHRYSLER_TQ_CONV_SLIP_VAR_1: 0
   response: 7E80562B0280000
 - expected_values:
+    CHRYSLER_TQ_CONV_SLIP: 255
+    CHRYSLER_TQ_CONV_SLIP_VAR_1: 3.58594
+  response: 7E80562B02800FF
+- expected_values:
     CHRYSLER_TQ_CONV_SLIP: -24
     CHRYSLER_TQ_CONV_SLIP_VAR_1: -0.3375
   response: 7E80562B028FFE8
-- expected_values:
-    CHRYSLER_TQ_CONV_SLIP: -1
-    CHRYSLER_TQ_CONV_SLIP_VAR_1: -0.01406
-  response: 7E80562B028FFFF

@@ -4,8 +4,8 @@ test_cases:
     CHRYSLER_CAT_MODEL_T: 389
   response: 7E80562012B0185
 - expected_values:
-    CHRYSLER_CAT_MODEL_T: 755
-  response: 7E80562012B02F3
+    CHRYSLER_CAT_MODEL_T: 767
+  response: 7E80562012B02FF
 - expected_values:
     CHRYSLER_CAT_MODEL_T: 768
   response: 7E80562012B0300

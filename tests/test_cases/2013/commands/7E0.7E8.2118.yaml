@@ -4,8 +4,8 @@ test_cases:
     CHRYSLER_ATF_T_V_2: 52.40625
   response: 7E80561180D1A82
 - expected_values:
-    CHRYSLER_ATF_T_V_2: 79.10938
-  response: 7E805611813C702
+    CHRYSLER_ATF_T_V_2: 78.34375
+  response: '7E8056118139602'
 - expected_values:
     CHRYSLER_ATF_T_V_2: 81.01562
   response: '7E8056118144184'

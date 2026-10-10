@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2117
 test_cases:
 - expected_values:
-    CHRYSLER_LINE_P: 124
+    CHRYSLER_LINE_P: 120
     CHRYSLER_LINE_P_DUTY: 0
-  response: 7E807611700007C7487
+  response: '7E80761170000787087'
 - expected_values:
     CHRYSLER_LINE_P: 142
     CHRYSLER_LINE_P_DUTY: 8.07176
   response: 7E807611714A78E8387
 - expected_values:
     CHRYSLER_LINE_P: 40
-    CHRYSLER_LINE_P_DUTY: 33.67023
-  response: 7E80761175626282B28
+    CHRYSLER_LINE_P_DUTY: 33.37099
+  response: 7E80761175562282B28
 - expected_values:
     CHRYSLER_LINE_P: 40
     CHRYSLER_LINE_P_DUTY: 34

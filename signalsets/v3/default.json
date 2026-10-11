@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "17"}, "freq": 1, "dbgfilter": { "years": [2012], "from": 2014 },
   "signals": [
     {"id": "200_LINE_P_DUTY", "path": "Engine", "fmt": {           "len": 16, "max": 100, "div": 655, "unit": "percent" }, "name": "Line pressure duty cycle"},

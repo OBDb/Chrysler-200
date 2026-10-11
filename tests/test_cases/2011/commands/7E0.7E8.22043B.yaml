@@ -1,10 +1,8 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    CHRYSLER_ODO_V2: 91234.304
-    CHRYSLER_PCM_ODO: 91234.304
+    200_PCM_ODO: 91234.304
   response: 7E80562043B2B81
 - expected_values:
-    CHRYSLER_ODO_V2: 91545.6
-    CHRYSLER_PCM_ODO: 91545.6
+    200_PCM_ODO: 91545.6
   response: 7E80562043B2BA7

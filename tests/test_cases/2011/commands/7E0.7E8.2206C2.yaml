@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: 0
+    200_INT_CAM_1_OFFSET: 0
   response: 7E8056206C20000
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: -0.3
+    200_INT_CAM_1_OFFSET: -0.3
   response: 7E8056206C2FFFD
 - expected_values:
-    CHRYSLER_INT_CAM_1_OFFSET: -0.2
+    200_INT_CAM_1_OFFSET: -0.2
   response: 7E8056206C2FFFE

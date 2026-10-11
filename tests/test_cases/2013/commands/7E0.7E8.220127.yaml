@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    CHRYSLER_AAT: 50.2
+    200_AAT: 50.2
   response: 7E8046201274A
 - expected_values:
-    CHRYSLER_AAT: 75.4
+    200_AAT: 75.4
   response: '7E80462012758'

@@ -26,6 +26,11 @@ test_cases:
     7E8100A616205DB05D8
     7E82108F9087CDB05D8
 - expected_values:
+    200_EOP_7E0: 1683
+  response: |-
+    7E8100A61620693069B
+    7E82106FE069D93069B
+- expected_values:
     200_EOP_7E0: 2932
   response: |-
     7E8100A61620B740A57

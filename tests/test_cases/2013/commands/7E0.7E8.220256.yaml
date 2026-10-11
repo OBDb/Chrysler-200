@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220256
 test_cases:
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_2: 0
+    200_FUEL_MASS_CYL_2: 0
   response: '7E8056202560000'
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_2: 7.9375
+    200_FUEL_MASS_CYL_2: 7.9375
   response: 7E80562025601FC
 - expected_values:
-    CHRYSLER_FUEL_MASS_CYL_2: 32.75
+    200_FUEL_MASS_CYL_2: 32.75
   response: '7E8056202560830'

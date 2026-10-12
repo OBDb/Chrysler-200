@@ -35,9 +35,9 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "48"}, "freq": 5, "dbgfilter": { "years": [2012], "from": 2014 },
   "signals": [
-    {"id": "200_EXH_GAS_T_1_7E0", "path": "Engine", "fmt": {"bix": 112, "len": 16, "max": 32767, "div": 2, "unit": "fahrenheit" }, "name": "Exhaust gas temperature 1"},
-    {"id": "200_EXH_GAS_T_2_7E0", "path": "Engine", "fmt": {"bix": 288, "len": 16, "max": 32767, "div": 2, "unit": "fahrenheit" }, "name": "Exhaust gas temperature 2"},
-    {"id": "200_DPF_REGEN",       "path": "Engine", "fmt": {"bix": 383, "len": 1,  "max": 1,               "unit": "offon"      }, "name": "Diesel particulate filter regeneration"}
+    {"id": "200_EXH_GAS_T_1_7E0", "path": "Engine", "fmt": {"bix": 112, "len": 16, "max": 32767, "div": 2,                   "unit": "fahrenheit" }, "name": "Exhaust gas temperature 1"},
+    {"id": "200_EXH_GAS_T_2_7E0", "path": "Engine", "fmt": {"bix": 288, "len": 16, "max": 32767, "div": 2, "nullmax": 32767, "unit": "fahrenheit" }, "name": "Exhaust gas temperature 2"},
+    {"id": "200_DPF_REGEN",       "path": "Engine", "fmt": {"bix": 383, "len": 1,  "max": 1,                                 "unit": "offon"      }, "name": "Diesel particulate filter regeneration"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "4D"}, "freq": 1, "dbgfilter": { "years": [2012], "from": 2014 },
   "signals": [

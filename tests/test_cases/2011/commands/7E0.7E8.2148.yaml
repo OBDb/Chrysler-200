@@ -3,7 +3,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 12032
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614800005B01
     7E821D1006000002514
@@ -19,7 +18,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 14464
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E8104961480151FF00
     7E821E1007000005E80
@@ -35,7 +33,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 19200
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148018A7201
     7E82124009700001A08
@@ -51,7 +48,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 7296
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148019A3801
     7E8217C006000002140
@@ -67,7 +63,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 13184
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614801FA0702
     7E821FF00ED000025A8
@@ -83,7 +78,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 512
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E8104961480207FF00
     7E82100000000000000
@@ -99,7 +93,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 11008
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148026D3003
     7E82163011C00003304
@@ -115,7 +108,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 4480
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148026D7400
     7E821EA005E000022CC
@@ -131,7 +123,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 12800
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E8104961480271FF00
     7E82100000000000000
@@ -147,7 +138,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 14976
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614802863A01
     7E821A6010C00000FD8
@@ -163,7 +153,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 14976
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148029A6001
     7E8215900C300000FE8
@@ -179,7 +168,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 1408
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614802C61302
     7E821FF00ED0000111C
@@ -195,7 +183,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 8064
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614802C87701
     7E821FC009100005AB0
@@ -211,7 +198,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 16128
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614802DB7901
     7E8217100C100001CA0
@@ -227,7 +213,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 32256
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614802F83B02
     7E821FF00ED00001150
@@ -243,7 +228,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 7936
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614802FB1803
     7E82163011C00002170
@@ -259,7 +243,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 31232
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148031E6003
     7E82163011C00002320
@@ -275,7 +258,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 26496
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E8104961480368FF00
     7E82100000000000000
@@ -291,7 +273,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 26496
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E8104961480368FF00
     7E82100000000000000
@@ -307,7 +288,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 26240
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614803856900
     7E821EF006F00001D38
@@ -323,7 +303,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 384
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148038EFF00
     7E82100000000000000
@@ -339,7 +318,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 20096
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614804290A03
     7E821FD004B00002224
@@ -355,7 +333,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 8064
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148042A6900
     7E821E10070000014D4
@@ -371,7 +348,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 19840
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148046D3701
     7E821CD009700008120
@@ -387,7 +363,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 128
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148047E4503
     7E82163011C00002270
@@ -403,7 +378,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 31616
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148048A1303
     7E82163011C00002104
@@ -419,7 +393,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 27392
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614804EC4A01
     7E82133007000004F4C
@@ -435,7 +408,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 7808
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E810496148050E2E02
     7E821FF00ED00002654
@@ -451,7 +423,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 8448
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614805160200
     7E821E1007000001A68
@@ -467,7 +438,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 7168
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614805660A01
     7E821F300A700001054
@@ -483,7 +453,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 23808
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614805EA2601
     7E82185007800007B50
@@ -499,7 +468,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 7808
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614806262401
     7E82141005E000031A4
@@ -515,7 +483,6 @@ test_cases:
 - expected_values:
     200_DPF_REGEN: 0
     200_EXH_GAS_T_1_7E0: 31616
-    200_EXH_GAS_T_2_7E0: 32767
   response: |-
     7E81049614808195C01
     7E821630070000036B0

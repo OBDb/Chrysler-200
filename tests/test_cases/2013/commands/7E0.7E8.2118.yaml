@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2118
 test_cases:
 - expected_values:
-    200_ATF_T_V_2: 47.5625
-  response: 7E80561180BE482
+    200_ATF_T_V_2: 46.98438
+  response: 7E80561180BBF82
 - expected_values:
     200_ATF_T_V_2: 64
   response: '7E8056118100082'
@@ -10,8 +10,8 @@ test_cases:
     200_ATF_T_V_2: 71.07812
   response: 7E805611811C502
 - expected_values:
-    200_ATF_T_V_2: 81.01562
-  response: '7E8056118144184'
+    200_ATF_T_V_2: 80.4375
+  response: 7E8056118141C84
 - expected_values:
     200_ATF_T_V_2: 111.98438
   response: 7E80561181BFF84

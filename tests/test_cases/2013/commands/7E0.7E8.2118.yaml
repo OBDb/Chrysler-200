@@ -4,11 +4,11 @@ test_cases:
     200_ATF_T_V_2: 43.89062
   response: 7E80561180AF982
 - expected_values:
+    200_ATF_T_V_2: 63.03125
+  response: 7E80561180FC202
+- expected_values:
     200_ATF_T_V_2: 64
   response: '7E8056118100082'
-- expected_values:
-    200_ATF_T_V_2: 71.07812
-  response: 7E805611811C502
 - expected_values:
     200_ATF_T_V_2: 79.875
   response: 7E805611813F884
